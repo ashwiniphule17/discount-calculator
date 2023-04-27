@@ -44,8 +44,8 @@ input{
 #calculator{
     padding: 20px;
     width: 200px;
-    color: #0d5c63;
-    font-weight: bolder;
+    color: blue;
+     font-weight: bolder;
     border-radius: 10px;
     margin-left: 235px;
     font-size: x-large;
@@ -56,4 +56,49 @@ input{
 }
 #total{
     text-align: centers;
+}
+.container{
+    width: 600px;
+    background-color: #0d5c63;
+    margin-left: 450px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+div{
+margin-left: 480px;
+}
+
+h2{
+    color: yellow;
+    text-align: center;
+}
+#number{
+    margin-left: 150px;
+}
+input{
+    width: 150px;
+    height: 10px;
+}
+#age{
+    border-radius: 10px;
+     width: 150px;
+    height:40px;
+    font-weight: bolder;
+     background-color: rgb(192, 192, 22);
+     margin-left: 150px;
+}
+#reset{
+    color: white;
+      background-color: rgb(192, 192, 22);
+      width: 70pxS;
+      height: 40px;
+      font-weight: bolder;
+      margin-left: 20px;
+      border-radius: 10px;
+  }
+div{ 
+    margin-left: 130px;
+}
+#total{
+    text-align: center;
 }
